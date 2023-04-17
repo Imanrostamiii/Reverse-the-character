@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.net core projects", "asp.net core projects\asp.net core projects.csproj", "{F7FB5B60-F9B8-4CD7-BFCE-63741CC09F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apprevers", "apprevers\apprevers.csproj", "{F99DF70E-D2AB-4655-81D7-387C4C4D5722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7FB5B60-F9B8-4CD7-BFCE-63741CC09F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FB5B60-F9B8-4CD7-BFCE-63741CC09F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FB5B60-F9B8-4CD7-BFCE-63741CC09F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FB5B60-F9B8-4CD7-BFCE-63741CC09F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99DF70E-D2AB-4655-81D7-387C4C4D5722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99DF70E-D2AB-4655-81D7-387C4C4D5722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99DF70E-D2AB-4655-81D7-387C4C4D5722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99DF70E-D2AB-4655-81D7-387C4C4D5722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

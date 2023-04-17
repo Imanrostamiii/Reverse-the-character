@@ -1,0 +1,27 @@
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\appsettings.Development.json
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\appsettings.json
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\asp.net core projects.exe
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\asp.net core projects.deps.json
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\asp.net core projects.runtimeconfig.json
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\asp.net core projects.dll
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\asp.net core projects.pdb
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\project C#\asp.net core projects\asp.net core projects\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.csproj.AssemblyReference.cache
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.GeneratedMSBuildEditorConfig.editorconfig
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.AssemblyInfoInputs.cache
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.AssemblyInfo.cs
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.csproj.CoreCompileInputs.cache
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.MvcApplicationPartsAssemblyInfo.cs
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.MvcApplicationPartsAssemblyInfo.cache
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\staticwebassets.build.json
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\staticwebassets.development.json
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\scopedcss\bundle\asp.net core projects.styles.css
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.csproj.CopyComplete
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.dll
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\refint\asp.net core projects.dll
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.pdb
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\asp.net core projects.genruntimeconfig.cache
+F:\project C#\asp.net core projects\asp.net core projects\obj\Debug\net6.0\ref\asp.net core projects.dll
